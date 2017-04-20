@@ -1,5 +1,5 @@
 # upyun-token
-##Useage
+## Useage
 ```
 node token.js key path
 ```
